@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf-donayre",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dade6abe-b45a-4621-8b2d-e3eba5185c5b",
+		"tenantId": "6316808b-7c95-409a-8cfe-844d203c5dc3"
+	}
+}
